@@ -10,12 +10,12 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.owner = ['6285731706147','6281251051640']
+global.premium = ['6285731706147','6281251051640']
+global.ownernomer = '6285731706147','6281251051640'
+global.ownername = 'Zall Pesstore'
+global.botname = 'Zall-MD'
+global.footer = 'Zall Pesstore'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
@@ -24,11 +24,11 @@ global.author = '2022'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'https://instagram.com/Lexxy24'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://github.com/Lexxy24'
-global.email = 'pebrikito0@gmail.com'
+global.youtube = 'https://youtube.com/channel/UCxxQWrtnSr3FUVH8RofC0Lg'
+global.ig = 'https://instagram.com/zall_pesstore'
+global.mygc = 'https://chat.whatsapp.com/CJp4EUkUOaX3IgD5UA6t2V'
+global.myweb = 'https://github.com/ZallXd'
+global.email = 'zallgemge@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
